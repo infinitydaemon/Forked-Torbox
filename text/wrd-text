@@ -1,0 +1,5 @@
+To enable the 5 GHz band, you have to set the correct WLAN regulatory domain of the country in which you are operating TorBox.
+
+The change is active immediately and remains active even after a reboot.
+
+Would you like to continue?

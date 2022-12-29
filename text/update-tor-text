@@ -1,0 +1,22 @@
+With this menu entry, you can easily update or change the used tor version.
+TorBox offers you two ways to do so, which are described below.
+
+DEFAULT
+The default and recommended way to update the installed tor version to the
+latest stable version.
+
+EXPERT
+Choosing EXPERT allows you not only to update but to select a specific
+tor version (including old, alpha and rc version, which we not recommend
+to use).
+
+IMPORTANT
+- Before using this menu entry, you should update the entire base system
+  (menu entry 1).
+- To aboard, press ESC, wait until the following dialogue box appears and
+  choose "NO".
+- TorBox has to be installed at least on an 8 GB SD Card !!!
+- Don't remove power from your TorBox during the update.
+- The TorBox menu has to be updated separately.
+
+Duration: up to 30 minutes
